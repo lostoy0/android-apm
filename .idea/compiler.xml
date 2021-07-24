@@ -4,6 +4,8 @@
     <bytecodeTargetLevel target="1.7">
       <module name="android-apm.app" target="11" />
       <module name="android-apm.library" target="11" />
+      <module name="android-app-monitor.library" target="11" />
+      <module name="android-app-monitor.sample" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

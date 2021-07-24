@@ -1,4 +1,4 @@
-rootProject.name = "android-apm"
-include ':app'
+rootProject.name = "android-app-monitor"
+include ':sample'
 include ':library'
 include ':plugin'
